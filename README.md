@@ -1,23 +1,27 @@
-# TÍTULO DO PROJETO
+# WebProject
 
-`CURSO`
+`Analise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`Eixo 2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+
+O objetivo geral deste trabalho é a criação de um site de portfólio para publicações de projetos desenvolvidos ao longo da carreira acadêmica e profissional. 
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Breno Eduardo de Almeida Satornino
+* Luan Fabricio de Souza Rubio
+* Marcelo Braga Veras
+* Pedro Von Der Heide Souza
+* Rafael Henrique Teixeira
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Joyce Christina de Paiva Carvalho
 
 ## Instruções de utilização
 
