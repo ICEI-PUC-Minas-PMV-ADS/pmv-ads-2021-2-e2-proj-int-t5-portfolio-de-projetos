@@ -87,12 +87,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
-https://lucid.app/lucidchart/f18f71c6-9edc-4cf5-918f-2f49111ef34c/view?page=0_0#
 
-https://lucid.app/publicSegments/view/b821aba0-2003-44e6-8d51-9f1d6718683f/image.pdf
+
+![Diagrama de Caso de Uso](https://user-images.githubusercontent.com/81194817/134242382-0f75e51a-7f4f-44e5-a35a-b71ef46c78e2.png)
 
 
 
 ## Vídeo de 2 minutos com apresentação do problema e proposta de solução
+
+https://user-images.githubusercontent.com/81194817/134242487-72838fc0-d8a6-4397-9bd7-c5b9ab0c190f.mp4
 
 
