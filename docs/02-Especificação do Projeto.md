@@ -89,3 +89,8 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 https://lucid.app/lucidchart/f18f71c6-9edc-4cf5-918f-2f49111ef34c/view?page=0_0#
 
+https://lucid.app/publicSegments/view/b821aba0-2003-44e6-8d51-9f1d6718683f/image.pdf
+
+
+
+
