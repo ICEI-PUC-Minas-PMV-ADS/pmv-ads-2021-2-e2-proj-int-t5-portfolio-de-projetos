@@ -93,4 +93,6 @@ https://lucid.app/publicSegments/view/b821aba0-2003-44e6-8d51-9f1d6718683f/image
 
 
 
+## Vídeo de 2 minutos com apresentação do problema e proposta de solução
+
 
