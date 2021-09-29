@@ -22,15 +22,12 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+![wireframe cursos](https://user-images.githubusercontent.com/81194817/135362724-b6742f3d-da26-4c28-8871-a7fda26b1ddb.png)
+![wireframe home](https://user-images.githubusercontent.com/81194817/135362725-7f2aaadd-7d1a-4c68-a080-e5d0ee3b0db7.png)
+![wireframe projetos](https://user-images.githubusercontent.com/81194817/135362726-33a050c8-a3d8-48e9-9ddd-93528ee7e1e1.png)
+![wireframe quem sou](https://user-images.githubusercontent.com/81194817/135362728-0e2aba07-6d8c-4738-a2a3-8f4052699831.png)
+
