@@ -12,7 +12,8 @@ Segundo Pressman e Maxim (2016), encontrar o defeito na fase de levantamento de 
 
 Como pode ser observado pela imagem apresentada abaixo, um defeito pode custar até 100 vezes mais se encontrado na etapa de liberação do software ao usuário em comparação com um defeito encontrado na etapa de design.
 
-![testes soft](https://user-images.githubusercontent.com/81194817/135528550-ab721b09-9f4f-43e2-a202-de686d7b3f10.png)
+![testes soft](https://user-images.githubusercontent.com/81194817/135528550-ab721b09-9f4f-43e2-a202-de686d7b3f10.png) 
+Fonte: adaptado de Patton (2005)
 
 
 Esse aumento é causado pelo retrabalho da equipe de desenvolvimento, visto que, quanto mais etapas o defeito avança, mais etapas o defeito terá que retroceder para ser corrigido, gerando mais horas de trabalho da equipe que está desenvolvendo o software.
