@@ -12,11 +12,18 @@ O objetivo geral deste trabalho é a criação de um site de portfólio para pub
 
 ## Integrantes
 
-* Breno Eduardo de Almeida Satornino
-* Luan Fabricio de Souza Rubio
-* Marcelo Braga Veras
-* Pedro Von Der Heide Souza
-* Rafael Henrique Teixeira
+*Breno Eduardo de Almeida Satornino
+
+*Luan Fabricio de Souza Rubio 
+
+*Marcelo Roland Bernardino
+
+*Pedro Von Der Heide Souza
+
+*Rafael Henrique Teixeira
+
+*Thiago Luiz Clemente
+
 
 
 ## Orientador
