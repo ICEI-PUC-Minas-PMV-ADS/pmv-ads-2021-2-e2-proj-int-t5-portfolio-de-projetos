@@ -1,9 +1,17 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+## Relação de Ambientes de Trabalho
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+O desenvolvimento deste trabalho ocorrerá com o auxílio de diversas ferramentas, que têm como objetivo principal a organização das tarefas e do fluxo do trabalho. A definição das ferramentas e o seu propósito são descritas a seguir:
+
+* Repositório de código fonte: GitHub.
+* Documentos do projeto: GitHub.
+* Interface e Wireframes: Figma
+* Gerenciamento do projeto: GitHub
+* Diagrama de Classes: Lucidchart
+* Diagrama de Fluxo: Lucidchart
+
 
 ## Controle de Versão
 
@@ -26,14 +34,9 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+## Gestao de Documentos 
 
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+Embora seja relativamente simples, o desenvolvimento do site gera diversos documentos, além do código fonte. Estes documentos incluem a documentação de contexto, as especificações do projeto, imagens de referência, material de apoio, roteiro de entrevista com o cliente, entre outros. Para facilitar o compartilhamento e evitar a perda de informações, será utilizado o GitHub.
 
 ## Gerenciamento de Projeto
 
