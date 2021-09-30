@@ -40,24 +40,42 @@ Embora seja relativamente simples, o desenvolvimento do site gera diversos docum
 
 ## Gerenciamento de Projeto
 
+O gerenciamento do projeto e a divisão das tarefas utilizará o Scrum, metodologia ágil largamente utilizada no desenvolvimento de aplicações por empresas como Google, Amazon e Salesforce.com (SUTHERLAND, JEFF; SUTHERLAND, 2019). 
+
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+O Scrum, de forma resumida, é uma metodologia que tem como objetivo o gerenciamento de projetos, proporcionando sua execução de forma rápida. O projeto é dividido em tarefas e estas compõem o chamado “backlog”. A pessoa da equipe que gerencia o backlog é o Product Owner, responsável pela visão do todo do produto e quem define as prioridades de cada tarefa. A gestão do tempo é realizada através dos sprints, que devem ter duração de uma a duas semanas – para este trabalho, serão realizados sprints de 1 semana – acompanhados pelas “reuniões diárias em pé”, ou “Scrum diário”, em que são respondidas três perguntas por todos da equipe:
+
+O que você fez ontem?
+O que você vai fazer hoje?
+Quais são os obstáculos?
+
+O Scrum Master é o responsável pelo bom andamento da metodologia, treinando e eliminando fatores que reduzem o ritmo da equipe.
+
+O Scrum é adequado para o trabalho com o GitFlow, já que as feature branches podem ser as tarefas de cada sprint; as hotfixes são as novas tarefas prioritárias no backlog; e as release features seriam a entrega de cada sprint.
+Assim, a equipe será dividida da seguinte forma:
+
+Scrum Master: Rafael Henrique Teixeira
+Product Owner: Pedro Von Der Heide Souza
+
+Equipe de Desenvolvimento: 
+•	Breno Eduardo de Almeida Satornino
+•	Luan Fabricio de Souza Rubio
+•	Marcelo Roland Bernardino
+•	Pedro Von Der Heide Souza
+•	Rafael Henrique Teixeira
+•	Thiago Luiz Clemente
+
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+#### Quadro kanban
+
+O quadro kanban do projeto está sendo feito também no GitHub e pode ser acessado pelo link https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t5-portfolio-de-projetos/projects/1
+
+![Quadro Kambam](https://user-images.githubusercontent.com/81194817/135527595-38263e93-89cb-496e-aeb8-b6a78af84dd7.png)
+
 
 ### Ferramentas
 
