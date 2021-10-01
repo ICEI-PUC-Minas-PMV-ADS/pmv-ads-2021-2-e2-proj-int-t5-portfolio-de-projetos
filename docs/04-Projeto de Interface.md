@@ -6,11 +6,11 @@
 
 O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
 
-Abaixo um diagrama de fluxo com o caminho a ser percorrido pelo usuário final do site. 
+Abaixo o diagrama de fluxo com o caminho a ser percorrido pelo usuário final do site. 
 
 ![WhatsApp Image 2021-10-01 at 00 43 58](https://user-images.githubusercontent.com/81194817/135562214-4e42d08f-816b-4953-8872-86a8a6077e86.jpeg)
 
-Abaixo um diagrama de fluxo com o caminho a ser percorrido pelo contratante.
+Abaixo o diagrama de fluxo com o caminho a ser percorrido pelo contratante.
 
 ![WhatsApp Image 2021-10-01 at 00 44 27](https://user-images.githubusercontent.com/81194817/135562390-f4e663ea-ada9-43bd-927d-999fed570edb.jpeg)
 
