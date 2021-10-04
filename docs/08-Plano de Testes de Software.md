@@ -26,7 +26,52 @@ Também é possível testar o software do ponto de vista de quem desenvolveu, ol
 Um princípio geral das práticas recomendadas em engenharia de requisitos é que requisitos devem ser testáveis, destaca Sommerville (2019). Em outras palavras os requisitos devem ser escritos de modo que testes possam ser criados para eles, e um testador possa verificar se eles foram satisfeitos. Portanto, o teste baseado em requisitos é uma validação, não um teste de defeitos, o objetivo é demonstrar que o sistema implementou seus requisitos corretamente.
 
 
-[Plano de teste de Software.docx.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t5-portfolio-de-projetos/files/7281692/Plano.de.teste.de.Software.docx.pdf)
+![1](https://user-images.githubusercontent.com/82723489/135935758-f527413a-1ea6-4272-b977-e9239a003e84.png)
+
+![2](https://user-images.githubusercontent.com/82723489/135935766-79470c17-6964-4e37-963c-8ef6e90a32fc.png)
+
+![3](https://user-images.githubusercontent.com/82723489/135935781-cdd0fc17-cfe5-47d1-b4bb-42ec30f20389.png)
+
+![4](https://user-images.githubusercontent.com/82723489/135935830-77ed8dfd-0afc-487a-a2a1-f123a2946716.png)
+
+![5](https://user-images.githubusercontent.com/82723489/135935845-f9b42b11-5d5a-4f50-ac54-6f85dafc9cd6.png)
+
+![6](https://user-images.githubusercontent.com/82723489/135935861-1fd3f0c0-16c0-4d04-ba8b-ae3dd8e27da7.png)
+
+![7](https://user-images.githubusercontent.com/82723489/135935869-21034228-984d-4ca5-bdf3-16447ad09968.png)
+
+![8](https://user-images.githubusercontent.com/82723489/135935874-019db1a0-0a74-4dba-a57a-c31a9102e70b.png)
+
+![9](https://user-images.githubusercontent.com/82723489/135935881-88132e26-d5a0-408a-bda0-ef6de2a4727f.png)
+
+![10](https://user-images.githubusercontent.com/82723489/135935893-06d36ddb-add0-4809-913c-2f96e0b5b039.png)
+
+![11](https://user-images.githubusercontent.com/82723489/135935900-014145a1-014c-4ca4-af4d-324c8dead7cc.png)
+
+![12](https://user-images.githubusercontent.com/82723489/135935908-d77f27a1-2959-4a59-a724-a095507fe1a8.png)
+
+![13](https://user-images.githubusercontent.com/82723489/135935918-f0864fdd-f749-4443-ad23-502bdc8c93fe.png)
+
+![14](https://user-images.githubusercontent.com/82723489/135935932-ac940650-b5a3-4cc5-8e84-749816a56cc8.png)
+
+![15](https://user-images.githubusercontent.com/82723489/135935939-99281904-9195-42ca-86ad-4e0e38d7be90.png)
+
+![16](https://user-images.githubusercontent.com/82723489/135935955-63aef982-b442-4f53-afb5-ee6ff5e2e652.png)
+
+![17](https://user-images.githubusercontent.com/82723489/135935961-675fa17c-e5ac-4fa5-af14-4331d1735f25.png)
+
+![18](https://user-images.githubusercontent.com/82723489/135935968-ccd129b4-1526-41dd-b6cb-f9ba981e9840.png)
+
+![19](https://user-images.githubusercontent.com/82723489/135935976-191c1a9a-3f22-442f-89a0-1296f4aa7096.png)
+
+
+
+
+
+
+
+
+
 
 
 
