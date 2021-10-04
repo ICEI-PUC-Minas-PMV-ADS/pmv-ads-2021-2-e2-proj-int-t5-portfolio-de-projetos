@@ -8,15 +8,19 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
--> Fernanda Silva, tem 17 anos é estudante do 3º ano do ensino médio. Tem o sonho de ingressar de maneira rápida no mercado de trabalho, deseja ter um site personalizado para publicar seus projetos feitos em treinamentos pela internet, para apresentar a recrutadores.
+![fernanda silva](https://user-images.githubusercontent.com/81194817/135849893-7251ac9a-947a-41a3-abce-4a96ad8e7e0d.png) Fernanda Silva, tem 17 anos é estudante do 3º ano do ensino médio. Tem o sonho de ingressar de maneira rápida no mercado de trabalho, deseja ter um site personalizado para publicar seus projetos feitos em treinamentos pela internet, para apresentar a recrutadores.
 
--> Andre Maia, tem 20 anos está no terceiro período de Sistemas de Informação na PUC Minas, possui vários projetos, mas ainda não conseguiu um estágio na área de atuação. É Portador de Deficiência Física, deseja ter um site pessoal com seus projetos, para facilitar sua comunicação com os recrutadores e ter mais segurança em sias apresentações.
 
--> Maria José, tem 22 anos, recém formada em Analise e Desenvolvimento de Sistemas, já está no Mercado de Trabalho. Deseja ter um site para organizar seus projetos por linguagens. Para demonstrar suas competências e habilidades. 
+![andremaia](https://user-images.githubusercontent.com/81194817/135849211-33677944-1b7a-42ae-965f-0f4446e1f7d8.jpg) Andre Maia, tem 20 anos está no terceiro período de Sistemas de Informação na PUC Minas, possui vários projetos, mas ainda não conseguiu um estágio na área de atuação. É Portador de Deficiência Física, deseja ter um site pessoal com seus projetos, para facilitar sua comunicação com os recrutadores e ter mais segurança em sias apresentações.
 
--> João da Silva, tem 29 anos, pós graduado em Engenharia de Software, deseja ter um site diferenciado dos demais para apresentar seus projetos em um processo seletivo de trainee e atualiza-lo rapidamente. 
 
--> Ana Maria, tem 27 anos, recém formada em Ciencias da Computação, está procurando emprego e quer mostrar aos empregadores o que já fez por ordem cronológica. Para facilita a vida e o entendimento do recrutador. 
+![mariajose](https://user-images.githubusercontent.com/81194817/135849180-a12795e2-75ab-4041-9551-f87562ed8b33.png) Maria José, tem 22 anos, recém formada em Analise e Desenvolvimento de Sistemas, já está no Mercado de Trabalho. Deseja ter um site para organizar seus projetos por linguagens. Para demonstrar suas competências e habilidades. 
+
+
+![joao da silva](https://user-images.githubusercontent.com/81194817/135849176-c65f3832-dcf0-4c51-8c69-3585c45cdfe5.png) João da Silva, tem 29 anos, pós graduado em Engenharia de Software, deseja ter um site diferenciado dos demais para apresentar seus projetos em um processo seletivo de trainee e atualiza-lo rapidamente. 
+
+
+![ana maria](https://user-images.githubusercontent.com/81194817/135849173-7f3299d5-002d-416d-8c99-4dd9130f0b28.png) Ana Maria, tem 27 anos, recém formada em Ciencias da Computação, está procurando emprego e quer mostrar aos empregadores o que já fez por ordem cronológica. Para facilita a vida e o entendimento do recrutador. 
 
 
 
