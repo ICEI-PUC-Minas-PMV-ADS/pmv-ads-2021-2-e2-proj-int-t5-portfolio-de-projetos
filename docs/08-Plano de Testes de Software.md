@@ -26,6 +26,7 @@ Também é possível testar o software do ponto de vista de quem desenvolveu, ol
 Um princípio geral das práticas recomendadas em engenharia de requisitos é que requisitos devem ser testáveis, destaca Sommerville (2019). Em outras palavras os requisitos devem ser escritos de modo que testes possam ser criados para eles, e um testador possa verificar se eles foram satisfeitos. Portanto, o teste baseado em requisitos é uma validação, não um teste de defeitos, o objetivo é demonstrar que o sistema implementou seus requisitos corretamente.
 
 
+[Plano de teste de Software.docx.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t5-portfolio-de-projetos/files/7281692/Plano.de.teste.de.Software.docx.pdf)
 
 
 
