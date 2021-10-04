@@ -12,6 +12,22 @@ O desenvolvimento deste trabalho ocorrerá com o auxílio de diversas ferramenta
 * Diagrama de Classes: Lucidchart
 * Diagrama de Fluxo: Lucidchart
 
+## Gestão de código fonte
+
+A gestão do código fonte deste trabalho será feita segundo o modelo GitFlow, um modelo “robusto para gerenciar projetos mais complexos ou de grande porte” (Vietro, 2015). Embora o projeto de construção e implementação do website seja de pequeno porte e de relativa baixa complexidade, decidiu-se pela utilização deste modelo por facilitar a gestão do desenvolvimento do código principal, das novas funcionalidades e das correções de erros. O funcionamento do GitFlow é semelhante a uma árvore, em que há um tronco e diversas ramificações, que são os galhos. O tronco, ou branch (do inglês, “galho”) principal, é chamado de Master, e contém o código oficial, histórico de entregas e também é usado para liberação para o cliente.
+
+Partindo do branch master, existem diversos outros tipos de branches:
+•	“Hotfix” ou “maintenance branch: usado para correções rápidas de erros;
+•	Develop: é o branch principal para o desenvolvimento, também utilizado para guardar o histórico do projeto. É neste branch que são integradas todas as novas funcionalidades (feature branches);
+•	Feature branch: ao iniciar o desenvolvimento de uma nova funcionalidade, esta deve ter seu próprio branch que, posteriormente, serão integradas no branch develop;
+•	Release branch: é a branch para entrega, desenvolvida quando as funcionalidades do ciclo estão prontas. Deve ser integrada com as branches Master e Develop;
+Uma representação deste modelo pode ser vista na abaixo: 
+
+![Imagem3](https://user-images.githubusercontent.com/81194817/135852117-a2d4d2a8-e9ab-49fe-85ad-c1eb9ec70786.png)
+
+Para utilização deste modelo, será utilizado o repositório GitHub, para que todos os desenvolvedores do trabalho tenham acesso. Para facilitar a criação das branches e a integração de todas, será utilizado o GitHub Desktop.
+
+
 
 ## Controle de Versão
 
@@ -91,8 +107,3 @@ integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
