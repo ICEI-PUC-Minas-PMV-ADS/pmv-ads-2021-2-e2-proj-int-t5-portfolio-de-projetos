@@ -18,14 +18,15 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 ## Objetivos
 
 O objetivo geral deste trabalho é a criação de um site de portfólio para publicações de projetos desenvolvidos ao longo da carreira acadêmica e profissional. 
+
 Os objetivos específicos são: 
-•	Disponibilizar no site projetos desenvolvidos na universidade, empresas, treinamentos, Bootcamps e outros cursos;
-•	Mostrar para recrutadores projetos já desenvolvidos ao longo da trajetória profissional;
-•	Gerar uma vantagem competitiva para se conseguir um bom emprego, estágios, programas de trainees ou freelances; 
-•	Fazer uma autoavaliação do desenvolvimento nos estudos;
-•	Impressionar e facilitar a avaliação do recrutador;
-•	Ter uma apresentação diferente das convencionais;
-•	Demonstrar capacidade para preenchimento de vagas;
+* Disponibilizar no site projetos desenvolvidos na universidade, empresas, treinamentos, Bootcamps e outros cursos;
+* Mostrar para recrutadores projetos já desenvolvidos ao longo da trajetória profissional;
+* Gerar uma vantagem competitiva para se conseguir um bom emprego, estágios, programas de trainees ou freelances; 
+* Fazer uma autoavaliação do desenvolvimento nos estudos;
+* Impressionar e facilitar a avaliação do recrutador;
+* Ter uma apresentação diferente das convencionais;
+* Demonstrar capacidade para preenchimento de vagas;
 
 
 ## Justificativa
