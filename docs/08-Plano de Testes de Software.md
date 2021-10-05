@@ -57,25 +57,47 @@ O Caso de Teste de C-04.1 atende ao Requisito Funcional RF-04 - A aplicação de
 
 ![8](https://user-images.githubusercontent.com/82723489/135935874-019db1a0-0a74-4dba-a57a-c31a9102e70b.png)
 
+O Caso de Teste de C-05.1 atende ao Requisito Funcional RF-05 - A aplicação deve conter um filtro de projetos por linguagem  
+
 ![9](https://user-images.githubusercontent.com/82723489/135935881-88132e26-d5a0-408a-bda0-ef6de2a4727f.png)
+
+O Caso de Teste de C-05.2 atende ao Requisito Funcional RF-05 - A aplicação deve conter um filtro de projetos por linguagem
 
 ![10](https://user-images.githubusercontent.com/82723489/135935893-06d36ddb-add0-4809-913c-2f96e0b5b039.png)
 
+ Caso de Teste de C-06.1 atende ao Requisito Funcional RF-06 - A aplicação deve conter um espaço para incluir certificados de treinamentos
+
 ![11](https://user-images.githubusercontent.com/82723489/135935900-014145a1-014c-4ca4-af4d-324c8dead7cc.png)
+
+Caso de Teste de C-06.2 atende ao Requisito Funcional RF-06 - A aplicação deve conter um espaço para incluir certificados de treinamentos
 
 ![12](https://user-images.githubusercontent.com/82723489/135935908-d77f27a1-2959-4a59-a724-a095507fe1a8.png)
 
+Caso de Teste de C-07 atende ao Requisito Funcional RF-07 - A aplicação deve conter uma área para seleção do perfil do profissional desejado
+
 ![13](https://user-images.githubusercontent.com/82723489/135935918-f0864fdd-f749-4443-ad23-502bdc8c93fe.png)
+
+Caso de Teste de C-08.1 atende ao Requisito Funcional RF-08 - A aplicação deve conter um campo para acesso ao LinkedIn
 
 ![14](https://user-images.githubusercontent.com/82723489/135935932-ac940650-b5a3-4cc5-8e84-749816a56cc8.png)
 
+Caso de Teste de C-08.2 atende ao Requisito Funcional RF-08 - A aplicação deve conter um campo para acesso ao LinkedIn
+
 ![15](https://user-images.githubusercontent.com/82723489/135935939-99281904-9195-42ca-86ad-4e0e38d7be90.png)
+
+Caso de Teste de C-09.1 atende ao Requisito Funcional RF-09 - A aplicação deve conter um campo para acesso ao GitHub
 
 ![16](https://user-images.githubusercontent.com/82723489/135935955-63aef982-b442-4f53-afb5-ee6ff5e2e652.png)
 
+Caso de Teste de C-09.2 atende ao Requisito Funcional RF-09 - A aplicação deve conter um campo para acesso ao GitHub
+
 ![17](https://user-images.githubusercontent.com/82723489/135935961-675fa17c-e5ac-4fa5-af14-4331d1735f25.png)
 
+Caso de Teste de C-10.1 atende ao Requisito Funcional RF-10 - A aplicação deve conter um espaço para cadastro e exposição do perfil dos usuários cadastrados
+
 ![18](https://user-images.githubusercontent.com/82723489/135935968-ccd129b4-1526-41dd-b6cb-f9ba981e9840.png)
+
+Caso de Teste de C-10.2 atende ao Requisito Funcional RF-10 - A aplicação deve conter um espaço para cadastro e exposição do perfil dos usuários cadastrados
 
 ![19](https://user-images.githubusercontent.com/82723489/135935976-191c1a9a-3f22-442f-89a0-1296f4aa7096.png)
 
