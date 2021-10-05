@@ -23,9 +23,7 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
-
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
+![modelo relacional](https://user-images.githubusercontent.com/81194817/135945317-75af8cde-fa77-4a5d-acf5-10dff3ba1ce4.png)
 
 ## Tecnologias Utilizadas
 
