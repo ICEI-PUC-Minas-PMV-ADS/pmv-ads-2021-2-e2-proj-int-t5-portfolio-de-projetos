@@ -13,7 +13,7 @@ Não existem limites quando o objetivo é testar a usabilidade de uma aplicaçã
 
 Para o projeto em questão, realizaremos o modelo de Testes Remotos Não Moderados de Usabilidade.
 
-## Testes Remotos Não Moderados de Usabilidade.
+### Testes Remotos Moderados de Usabilidade.
 
 Esse é o tipo de teste de usabilidade que costuma ser realizado online. Por conta disso, o investimento também é menor.
 Nele os participantes realizam os estudos diretamente em seus próprios dispositivos, como tablets, smartphones e notebooks.
@@ -22,10 +22,10 @@ Nele os participantes realizam os estudos diretamente em seus próprios disposit
 
 A velocidade do desenvolvimento não é prejudicado, principalmente quando o time trabalha com ciclos contínuos de entrega, a flexibilidade do teste remoto facilita a cadência de entregas;
 
-Conseguir fazer testes de usabilidade mesmo de home office.
-O custo de retribuição oferecido é menor pois o entrevistado não terá custo e nem perde tempo no deslocamento.
-O entrevistado continua no seu ambiente natural.
-Conseguir testar 100% dos projetos até pequenas melhorias, trazer pessoas até a empresa para testar uma única funcionalidade.
+* Conseguir fazer testes de usabilidade mesmo de home office.
+* O custo de retribuição oferecido é menor pois o entrevistado não terá custo e nem perde tempo no deslocamento.
+* O entrevistado continua no seu ambiente natural.
+* Conseguir testar 100% dos projetos até pequenas melhorias, trazer pessoas até a empresa para testar uma única funcionalidade.
 
 Para a realização do teste de usabilidade será utilizado a ferramenta Lookback.
 
