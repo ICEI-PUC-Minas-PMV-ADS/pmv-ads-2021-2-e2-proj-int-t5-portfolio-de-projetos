@@ -60,7 +60,7 @@ Os requisitos funcionais são de extrema importância no desenvolvimento de apli
 |RF-007| A aplicação deve conter uma área para seleção do perfil do profissional desejado                        |    MÉDIA   |
 |RF-008| A aplicação deve conter um campo para acesso direto ao LinkedIn                                         |    MÉDIA   |
 |RF-009| A aplicação deve conter um campo para acesso ao GitHub                                                  |    MÉDIA   |
-
+|RF-010| A aplicação deve conter um espaço para cadastro e exposição do perfil dos usuários cadastrados          |    MÉDIA   |
 
 ### Requisitos não Funcionais
 
