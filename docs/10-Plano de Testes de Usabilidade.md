@@ -1,26 +1,42 @@
 # Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
 
-![cadastro de adm](https://user-images.githubusercontent.com/81194817/135374709-a8e1e83b-4557-4e0f-860e-8a40f6e344ce.png)
+Teste de usabilidade é um método de verificação de funcionalidades da interface de uma plataforma digital. É empregado em websites, aplicações e outras ferramentas, levando usuários reais à execução de determinadas tarefas. Após sua realização, é realizada uma análise de usabilidade e das principais dificuldades.
 
-![validar perfil](https://user-images.githubusercontent.com/81194817/135374722-b9b329d2-236a-4d11-bbe1-e17b99cc4a07.png)
+Sua finalidade é que todas as ações desejadas sejam finalizadas sem maiores problemas. Isso inclui minimizar os erros, alcançar a maior facilidade em encontrar o que deseja, ter uma experiência agradável e executar qualquer tarefa de maneira eficaz. Dessa maneira, o realizador do teste enxerga a interface do ponto de vista de quem a utilizará.
+Isso é muito importante, já que elas são desenvolvidas para o público em geral.
 
-![Validar exibicao](https://user-images.githubusercontent.com/81194817/135374717-98b3b752-88d6-49d3-94cb-e9b0dd0f2b87.png)
+O recolhimento de informações, geralmente, se dá de forma automática, observando as atividades do indivíduo na plataforma.
+No entanto, o feedback de um teste de usabilidade pode vir diretamente do participante por meio de formulários e perguntas abertas. 
 
-![validar exibicao contato](https://user-images.githubusercontent.com/81194817/135374716-b6882086-c025-4bad-bec3-707a8578a640.png)
+Não existem limites quando o objetivo é testar a usabilidade de uma aplicação. No entanto, os testes devem ser direcionados, já que existem muitos objetivos possíveis para cada ação.
 
-![Validar filtros por lnguagem](https://user-images.githubusercontent.com/81194817/135374718-907fda39-ae27-4b84-9720-81dcadde3bd3.png)
+Para o projeto em questão, realizaremos o modelo de Testes Remotos Não Moderados de Usabilidade.
 
-![validar tela de certificados](https://user-images.githubusercontent.com/81194817/135374726-dd538cd5-8307-46bd-8349-013f68363225.png)
+## Testes Remotos Não Moderados de Usabilidade.
 
-![validar seleção de perfil](https://user-images.githubusercontent.com/81194817/135374724-42ba5820-e23f-4602-89da-8d9775dfa93b.png)
+Esse é o tipo de teste de usabilidade que costuma ser realizado online. Por conta disso, o investimento também é menor.
+Nele os participantes realizam os estudos diretamente em seus próprios dispositivos, como tablets, smartphones e notebooks.
 
-![validar acesso direto ao linkedn](https://user-images.githubusercontent.com/81194817/135374713-86390b73-84e9-48d3-ae6a-6e0ac43012b2.png)
+### Vantagens em fazer testes de usabilidade à distância
 
-![validar acesso direto ao github](https://user-images.githubusercontent.com/81194817/135374712-a8b46720-5c97-409e-ada5-09b1d58fb370.png)
+A velocidade do desenvolvimento não é prejudicado, principalmente quando o time trabalha com ciclos contínuos de entrega, a flexibilidade do teste remoto facilita a cadência de entregas;
 
-![20](https://user-images.githubusercontent.com/82723489/135936647-b0cda982-a8f2-4614-b2ee-0a6ac9b5b0b5.png)
+Conseguir fazer testes de usabilidade mesmo de home office.
+O custo de retribuição oferecido é menor pois o entrevistado não terá custo e nem perde tempo no deslocamento.
+O entrevistado continua no seu ambiente natural.
+Conseguir testar 100% dos projetos até pequenas melhorias, trazer pessoas até a empresa para testar uma única funcionalidade.
+
+Para a realização do teste de usabilidade será utilizado a ferramenta Lookback.
+
+![LOOBACK](https://user-images.githubusercontent.com/81194817/135944810-1fff604f-5d31-4c70-9a2d-70798a0302c0.png)
+
+
+MORAES e MONT'ALVÃO (2003), relatam que durante o registro comportamental das atividades da tarefa, utilizam-se observações sistemáticas, registros de comportamento (frequência, duração e sequência) e técnicas da engenharia (diagramas de fluxo).
+
+A análise do resultado do teste de usabilidade à distância deve ser igual ao de um teste presencial, para registro será utilizada uma planilha conforme exemplo abaixo:
+
+![Modeloteste](https://user-images.githubusercontent.com/81194817/135945048-33cc8a98-2749-4632-8ca0-ef3efd52c99b.png)
 
 
 
