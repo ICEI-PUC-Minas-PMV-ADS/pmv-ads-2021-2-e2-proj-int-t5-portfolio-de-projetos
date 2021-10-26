@@ -15,35 +15,37 @@ Maria José, tem 22 anos, recém formada em Analise e Desenvolvimento de Sistema
 
 ![mariajose](https://user-images.githubusercontent.com/81194817/135849180-a12795e2-75ab-4041-9551-f87562ed8b33.png)
 
-João da Silva, tem 29 anos, é pós graduado em Engenharia de Software, deseja ter um site diferenciado dos demais para apresentar seus projetos em um processo seletivo de trainee e atualiza-lo rapidamente. 
+João da Silva, tem 29 anos, é pós graduado em Engenharia de Software, deseja ter um site diferenciado dos demais para apresentar seus projetos em um processo seletivo de trainee e atualiza-lo rapidamente. Tambem deseja ter em uma unica aplicação acesso ao seu perfil do Linkedin e GitHub.
 
 ![joao da silva](https://user-images.githubusercontent.com/81194817/135849176-c65f3832-dcf0-4c51-8c69-3585c45cdfe5.png)
 
-Ana Maria, tem 27 anos, recém formada em Ciencias da Computação, está procurando emprego e quer mostrar aos empregadores o que já desenvolveu por ordem cronológica. Para facilita a vida e o entendimento do recrutador. 
+Ana Maria, tem 27 anos, recém formada em Ciência da Computação, está procurando emprego e quer mostrar aos empregadores o que já desenvolveu por ordem cronológica. Para facilita a vida e o entendimento do recrutador. 
 
 ![ana maria](https://user-images.githubusercontent.com/81194817/135849173-7f3299d5-002d-416d-8c99-4dd9130f0b28.png) 
 
 
+Antonio Bandeira, tem 54 anos, é Gerente do setor de Tecnologia da Informação de uma grande multinacional, está a procura de bons desenvolvedores. Está entrevistando a Maria Jsé e deseja acessar o site para visualizar seus projetos, acessar seu Linkedin e seu perfil do GitHub e de outros usuarios. 
+
+![download (2)](https://user-images.githubusercontent.com/81194817/138904809-91074819-bf30-4262-a572-fc5e48bb85c7.jpg)
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                |PARA ... `MOTIVO/VALOR`                                                  |
-|--------------------|---------------------------------------------------|-------------------------------------------------------------------------|                   
-|Fernanda Silva      | Publicar meus projetos                            | ingressar de maneira rápida no mercado de trabalho                      |
-|Andre Maia          | Publicar meus projetos                            | conseguir um estágio na minha área de atuação                           |
-|Andre Maia          | Publicar meus projetos                            | compartilhar rapidamente com qualquer pessoa                            |
-|Maria José          | Organizar meus projetos por linguagens            | mostrar minhas habilidades para recrutadores                            |
-|João da Silva       | Publicar meus projetos                            | apresentar em um processo seletivo de trainee                           |
-|João da Silva       | Ter um site personalizado de porfolio de projetos | atualiza-lo rapidamente                                                 |
-|Ana Maria           | Organizar seus projetos em ordem cronológica      | para mostrar minha evolução e facilitar o entendimento dos recrutadores |
-|Administrador       | Alterar permissões                                | Permitir que possam administrar contas                                  |
-
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                              |PARA ... `MOTIVO/VALOR`                                               |
+|--------------------|-----------------------------------------------------------------|----------------------------------------------------------------------|                   
+|Fernanda Silva      | Publicar meus projetos                                          | ingressar de maneira rápida no mercado de trabalho                      |
+|Andre Maia          | Publicar meus projetos                                          | conseguir um estágio na minha área de atuação                           |
+|Andre Maia          | Publicar meus projetos                                          | compartilhar rapidamente com qualquer pessoa                            |
+|Maria José          | Organizar meus projetos por linguagens                          | mostrar minhas habilidades para recrutadores                            |
+|João da Silva       | Publicar meus projetos                                          | apresentar em um processo seletivo de trainee                           |
+|João da Silva       | Ter um site personalizado de porfolio de projetos               | atualiza-lo rapidamente                                                 |
+|Ana Maria           | Organizar seus projetos em ordem cronológica                    | para mostrar minha evolução e facilitar o entendimento dos recrutadores |
+|Administrador       | Alterar permissões                                              | Permitir que possam administrar contas                                  |
+|Antonio Bandeira    | Visualizar projetos                                             | Recrutar a Maria José e outros desenvolvedores.                         |
+|João da Silva       | Fornecer em uma unica aplicação acesso ao meu perfil do Linkedin | Facilitar a vida do recrutador                                              |
+|João da Silva       | Fornecer em uma unica aplicação acesso ao meu perfil do GitHub | Facilitar a vida do recrutador                                              |
 
 ## Requisitos
-
-Os requisitos do projeto são compostos pelos requisitos funcionais, referentes recursos disponíveis – de forma a atender às histórias de usuários – e pelos requisitos não funcionais, que dizem respeito à forma como o sistema deve funcionar. 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
@@ -54,7 +56,7 @@ Os requisitos funcionais são de extrema importância no desenvolvimento de apli
 |RF-001| A aplicação deve permitir o cadastro e login para os administradores                                    |    MÉDIA   | 
 |RF-002| A aplicação deve permitir um espaço para apresentação profissional do usuário                           |    MÉDIA   | 
 |RF-003| A aplicação deve conter um espaço para a exposição de projetos                                          |    MÉDIA   | 
-|RF-004| A aplicação deve conter um campo com formulário de contatO                                              |    MÉDIA   |
+|RF-004| A aplicação deve conter um campo com formulário de contato                                              |    MÉDIA   |
 |RF-005| A aplicação deve conter um filtro de projetos por linguagem                                             |    MÉDIA   |
 |RF-006| A aplicação deve conter um espaço para incluir certificados de treinamentos                             |    MÉDIA   |
 |RF-007| A aplicação deve conter uma área para seleção do perfil do profissional desejado                        |    MÉDIA   |
