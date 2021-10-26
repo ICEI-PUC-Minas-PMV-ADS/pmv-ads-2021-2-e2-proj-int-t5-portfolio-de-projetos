@@ -12,23 +12,6 @@ O desenvolvimento deste trabalho ocorrerá com o auxílio de diversas ferramenta
 * Diagrama de Classes: Lucidchart
 * Diagrama de Fluxo: Lucidchart
 
-## Gestão de código fonte
-
-A gestão do código fonte deste trabalho será feita segundo o modelo GitFlow, um modelo “robusto para gerenciar projetos mais complexos ou de grande porte” (Vietro, 2015). Embora o projeto de construção e implementação do website seja de pequeno porte e de relativa baixa complexidade, decidiu-se pela utilização deste modelo por facilitar a gestão do desenvolvimento do código principal, das novas funcionalidades e das correções de erros. O funcionamento do GitFlow é semelhante a uma árvore, em que há um tronco e diversas ramificações, que são os galhos. O tronco, ou branch (do inglês, “galho”) principal, é chamado de Master, e contém o código oficial, histórico de entregas e também é usado para liberação para o cliente.
-
-Partindo do branch master, existem diversos outros tipos de branches:
-•	“Hotfix” ou “maintenance branch: usado para correções rápidas de erros;
-•	Develop: é o branch principal para o desenvolvimento, também utilizado para guardar o histórico do projeto. É neste branch que são integradas todas as novas funcionalidades (feature branches);
-•	Feature branch: ao iniciar o desenvolvimento de uma nova funcionalidade, esta deve ter seu próprio branch que, posteriormente, serão integradas no branch develop;
-•	Release branch: é a branch para entrega, desenvolvida quando as funcionalidades do ciclo estão prontas. Deve ser integrada com as branches Master e Develop;
-Uma representação deste modelo pode ser vista na abaixo: 
-
-![Imagem3](https://user-images.githubusercontent.com/81194817/135852117-a2d4d2a8-e9ab-49fe-85ad-c1eb9ec70786.png)
-
-Para utilização deste modelo, será utilizado o repositório GitHub, para que todos os desenvolvedores do trabalho tenham acesso. Para facilitar a criação das branches e a integração de todas, será utilizado o GitHub Desktop.
-
-
-
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
@@ -57,17 +40,6 @@ Embora seja relativamente simples, o desenvolvimento do site gera diversos docum
 ## Gerenciamento de Projeto
 
 O gerenciamento do projeto e a divisão das tarefas utilizará o Scrum, metodologia ágil largamente utilizada no desenvolvimento de aplicações por empresas como Google, Amazon e Salesforce.com (SUTHERLAND, JEFF; SUTHERLAND, 2019). 
-
-### Divisão de Papéis
-
-
-O Scrum, de forma resumida, é uma metodologia que tem como objetivo o gerenciamento de projetos, proporcionando sua execução de forma rápida. O projeto é dividido em tarefas e estas compõem o chamado “backlog”. A pessoa da equipe que gerencia o backlog é o Product Owner, responsável pela visão do todo do produto e quem define as prioridades de cada tarefa. A gestão do tempo é realizada através dos sprints, que devem ter duração de uma a duas semanas – para este trabalho, serão realizados sprints de 1 semana – acompanhados pelas “reuniões diárias em pé”, ou “Scrum diário”, em que são respondidas três perguntas por todos da equipe:
-
-O que você fez ontem?
-O que você vai fazer hoje?
-Quais são os obstáculos?
-
-O Scrum Master é o responsável pelo bom andamento da metodologia, treinando e eliminando fatores que reduzem o ritmo da equipe.
 
 O Scrum é adequado para o trabalho com o GitFlow, já que as feature branches podem ser as tarefas de cada sprint; as hotfixes são as novas tarefas prioritárias no backlog; e as release features seriam a entrega de cada sprint.
 Assim, a equipe será dividida da seguinte forma:
