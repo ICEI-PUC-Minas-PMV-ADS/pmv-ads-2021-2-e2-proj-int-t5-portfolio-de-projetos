@@ -20,12 +20,38 @@ namespace Portifolio.Controllers
 
         public IActionResult Index()
         {
-            List<Usuario> usuarios = new List<Usuario>();
-            usuarios.Add(new Usuario() { Idade = 24, Nome = "Serjolas" });
-            usuarios.Add(new Usuario() { Idade = 24, Nome = "Bilagayro" });
-            usuarios.Add(new Usuario() { Idade = 24, Nome = "Ivicão" });
+            return View();
 
-            return View(usuarios);
+        }
+
+        public IActionResult QuemSou()
+        {
+            return View("Quemsou");
+
+        }
+
+        public IActionResult Projetos()
+        {
+            return View("Projetos");
+
+        }
+
+        public IActionResult Certificados()
+        {
+            return View("Certificados");
+
+        }
+
+        public IActionResult Falecomigo()
+        {
+            return View("Falecomigo");
+
+        }
+
+        public IActionResult Login()
+        {
+            return View("Login");
+
         }
 
         public IActionResult Privacy()

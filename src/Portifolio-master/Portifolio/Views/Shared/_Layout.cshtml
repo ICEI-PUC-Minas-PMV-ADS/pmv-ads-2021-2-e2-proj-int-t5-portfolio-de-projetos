@@ -6,6 +6,7 @@
     <title>@ViewData["Title"] - Portifolio</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <script src="https://kit.fontawesome.com/5005007e33.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <header>
@@ -22,22 +23,22 @@
                             <a class="nav-link text-dark" href="@Url.Action("Index","Home")">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark">Quem sou</a>
+                            <a class="nav-link text-dark" href="@Url.Action("Quemsou","Home")">Quem sou</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark">Projetos</a>
+                            <a class="nav-link text-dark" href="@Url.Action("Projetos","Home")">Projetos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark">Certificados</a>
+                            <a class="nav-link text-dark" href="@Url.Action("Certificados","Home")">Certificados</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark">Fale Comigo</a>
+                            <a class="nav-link text-dark" href="@Url.Action("Falecomigo","Home")">Fale Comigo</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark">Login</a>
+                            <a class="nav-link text-dark" href="@Url.Action("Login","Home")">Login</a>
                         </li>
                         <li class="nav-item">
-                            <div class="dropdown">
+                            <div class="dropdown" style="margin-left: 20px">
                                 <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Selecionar Perfis
                                 </button>
@@ -63,7 +64,7 @@
         <div class="container">
             &copy; 2021 - Portifolio - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy - </a>
             <a href="https://www.linkedin.com" target="_blank"><img src="~/imagens/iconin.png" alt="Icone do Linkedin" style="width: 55px; height:35px"></a>
-            <a href="https://github.com" target="_blank"><img src="~/imagens/giticon.png" alt="Icone do GitHub" style="width: 40px; height:35px"></a>
+            <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t5-portfolio-de-projetos" target="_blank"><img src="~/imagens/giticon.png" alt="Icone do GitHub" style="width: 40px; height:35px"></a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
