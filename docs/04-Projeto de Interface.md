@@ -43,7 +43,7 @@ https://www.figma.com/proto/rGtRmc52F4uEI1icN09NlR/Untitled?scaling=min-zoom&pag
  
 Na página “Quem sou”, o usuário poderá incluir uma foto e realizar uma breve apresentação da sua trajetória e conquistas profissionais. Além de também contar com o campo “Fale comigo”.
 
-![wireframe quem sou](https://user-images.githubusercontent.com/81194817/135362728-0e2aba07-6d8c-4738-a2a3-8f4052699831.png)
+![Quem sou](https://user-images.githubusercontent.com/81194817/143971108-6173668b-744a-4bf6-b1ca-6f451198bc16.png)
 
  ### Meus Projetos
  
