@@ -1,0 +1,33 @@
+﻿@model List<Certificado>
+
+<br />
+<h5 style="text-align: center;">Você está visualizando os certificados de @ListaUsuarios.Usuarios.FirstOrDefault(u => u.Id.Equals(Model.FirstOrDefault().iduser)).Nome</h5>
+<br />
+<br />
+
+<div class="card-deck mb-5">
+
+    <div class="row ">
+        @foreach (var certificado in Model)
+        {
+            <div class="col-4 mb-4">
+                <div class="card" style="min-height:500px">
+                    <img class="card-img-top" src="~/imagens/certificado.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@certificado.nome</h5>
+                        <p class="card-text">@certificado.descricao</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@*<embed src="~/imagens/testpdf.pdf" width="800px" height="2100px" />*@
+@section scripts{
+    <script>
+    $().ready(function () {
+        $("#usuarios").val("@Model.FirstOrDefault().iduser");
+    });
+    </script>
+}
