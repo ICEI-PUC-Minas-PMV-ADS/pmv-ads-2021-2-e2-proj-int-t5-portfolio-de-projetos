@@ -18,7 +18,6 @@ Abaixo o diagrama de fluxo com o caminho a ser percorrido pelo contratante.
 ## Wireframes
 
 
-
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
 Para a criação do Wireframe será utilizado o Figma.
@@ -28,11 +27,17 @@ De acordo com o blog Sirius Interativa (2019), Figma é uma ferramenta de design
 
 A ferramenta também torna mais fácil a apresentação do projeto que possui uma lista de componentes como ícones e opções de blocos de conteúdo. Devido às suas características, o Figma permite produzir o design em tempo mais curto.
 
+Abaixo link para Wireframe interativo
+
+https://www.figma.com/proto/rGtRmc52F4uEI1icN09NlR/Untitled?scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&node-id=1%3A2
+
+
  ### Home Page
  
  A “Home Page” será composta por um cabeçalho contendo os campos “Home”, “Quem sou”, “Projetos”, “Certificados” e “Fale Comigo”. Também contara com um campo para o usuário incluir seu projeto de destaque. Um campo para exposição dos principais projetos, com formato carrossel. E um campo “Fale comigo”, para contato com o desenvolvedor responsável pelo site. 
  
-![wireframe home](https://user-images.githubusercontent.com/81194817/135362725-7f2aaadd-7d1a-4c68-a080-e5d0ee3b0db7.png)
+![Home2](https://user-images.githubusercontent.com/81194817/143971036-aa362d67-4083-48eb-9292-e492c42e9155.png)
+
 
  ### Quem Sou
  
