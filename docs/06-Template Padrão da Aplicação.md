@@ -14,9 +14,13 @@ Isso acontece por que o impacto causado pelos tons é imediato, trazendo sensaç
 
 ![Paleta de cores](https://user-images.githubusercontent.com/81194817/143972946-242752e7-7fc9-4625-b975-7ffa99e57339.png)
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+
+## Template
+
+###Layout do site 
+
+O template do site será divido em cabeçalho, menus, conteúdo e rodapé:
+
+![template](https://user-images.githubusercontent.com/81194817/143973599-2da03c2c-4e4d-4ba9-94ae-77e4e04b4099.png)
+
+
