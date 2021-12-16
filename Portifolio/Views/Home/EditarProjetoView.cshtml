@@ -1,0 +1,39 @@
+﻿@model Portifolio.Models.Projeto
+
+@{
+    ViewData["Title"] = "Editar Projeto";
+}
+
+<h3>Editar Projeto</h3>
+
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="EditarProjeto" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group col-6">
+                <input asp-for="id" class="form-control form-control-sm" type="hidden" />
+                <input asp-for="iduser" class="form-control form-control-sm" type="hidden" />
+                <label asp-for="nome" class="control-label"></label>
+                <input asp-for="nome" class="form-control form-control-sm" />
+                <span asp-validation-for="nome" class="text-danger"></span>
+            </div>
+            <div class="form-group col-10">
+                <label asp-for="descricao" class="control-label"></label>
+                <textarea asp-for="descricao" class="form-control form-control-sm" rows="5" ></textarea>
+                <span asp-validation-for="descricao" class="text-danger"></span>
+            </div>
+            <div class="form-group col-10">
+                <input type="submit" value="Salvar" class="btn btn-sm btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Projetos">Cancelar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

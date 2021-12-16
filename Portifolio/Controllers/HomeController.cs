@@ -95,6 +95,51 @@ namespace Portifolio.Controllers
 
         }
 
+        public IActionResult EditarProjeto(int idProjeto)
+        {
+            Projeto model = new Projeto();
+
+            cmd.CommandText = "select * from projetos where id = " + idProjeto.ToString();
+            cmd.ExecuteScalar();
+
+            using (SqlDataReader reader = cmd.ExecuteReader())
+            {
+                if (reader.Read())
+                {
+                    model = new Projeto()
+                    {
+                        id = int.Parse(reader["id"].ToString()),
+                        iduser = int.Parse(reader["iduser"].ToString()),
+                        nome = reader["nome"].ToString(),
+                        descricao = reader["descricao"].ToString(),
+                        link = reader["link"].ToString(),
+                        dataupdate = DateTime.Parse(reader["dataupdate"].ToString())
+                    };
+                }
+            }
+
+            return View("EditarProjetoView", model);
+        }
+
+        [HttpPost]
+        public IActionResult EditarProjeto(Projeto model)
+        {
+
+            cmd.CommandText = $"update projetos set nome = '{model.nome}', descricao = '{model.descricao}' where id = {model.id}";
+            cmd.ExecuteNonQuery();
+
+            return RedirectToAction("Projetos", model.iduser);
+        }
+
+        public IActionResult ExcluirProjeto(int idProjeto, int idUser)
+        {
+
+            cmd.CommandText = $"delete projetos where id = {idProjeto}";
+            cmd.ExecuteNonQuery();
+
+            return RedirectToAction("Projetos", idUser);
+        }
+
         public IActionResult Certificados(int idUsuario = 1)
         {
             List<Certificado> model = new List<Certificado>();

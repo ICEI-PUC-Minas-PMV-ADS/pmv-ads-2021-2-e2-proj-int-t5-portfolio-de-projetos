@@ -10,29 +10,43 @@
     <div class="row">
         @foreach (var projeto in Model)
         {
-        <div class="col-4">
-            <div class="card" style="min-height:500px" >
-                <img class="card-img-top" src="~/imagens/projetoimg.png" alt="Card image cap">
-                <div class="card-body">
-                    <h5 class="card-title">@projeto.nome</h5>
-                    <p class="card-text">@projeto.descricao</p>
-                    <a class="btn btn-primary btn-sm" href="@projeto.link" target="_blank" role="button">Visualizar Código</a>
-                </div>
-                <div class="card-footer">
-                    <small class="text-muted">Última atualização: @projeto.dataupdate.ToString("dd/MM/yyyy")</small>
+            <div class="col-4">
+                <div class="card" style="min-height:500px">
+                    <img class="card-img-top" src="~/imagens/projetoimg.png" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@projeto.nome</h5>
+                        <p class="card-text">@projeto.descricao</p>
+                        <a class="btn btn-primary btn-sm" href="@projeto.link" target="_blank" role="button">Visualizar Código</a>
+                    </div>
+                    <div class="card-footer">
+                        <div class="row">
+                            <small class="text-muted">Última atualização: @projeto.dataupdate.ToString("dd/MM/yyyy")</small>
+                        </div>
+                        <div class="row">
+                            <button onclick="excluirProjeto('@projeto.id', '@projeto.iduser')" class="float-right btn btn-danger mr-3 btn-sm">Excluir</button>
+                            <button onclick="editarProjeto('@projeto.id')" class="float-right btn btn-info btn-sm">Editar</button>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
         }
 
-    </div>  
+    </div>
 </div>
 
 @*<embed src="~/imagens/testpdf.pdf" width="800px" height="2100px" />*@
 @section scripts{
     <script>
-    $().ready(function () {
-        $("#usuarios").val("@Model.FirstOrDefault().iduser");
-    });
+        $().ready(function () {
+            $("#usuarios").val("@Model.FirstOrDefault().iduser");
+        });
+
+        function editarProjeto(idProjeto) {
+            window.location.href = "@Url.Action("EditarProjeto", "Home")" + "?idProjeto=" + idProjeto;
+        };
+
+        function excluirProjeto(idProjeto, idUser) {
+            window.location.href = "@Url.Action("ExcluirProjeto", "Home")" + "?idProjeto=" + idProjeto + "&idUser=" + idUser;
+        };
     </script>
 }
